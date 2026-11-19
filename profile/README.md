@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://xdrproof.dev">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/xdrproof-banner-dark.png">
-      <img alt="XDRProof: If stellar-core can emit it, your code should survive it. A test kit for every program that reads the Stellar ledger." src="./assets/xdrproof-banner-light.png" width="100%">
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/xdrproof-banner-dark.gif">
+      <img alt="XDRProof: If stellar-core can emit it, your code should survive it. A test kit for every program that reads the Stellar ledger. Beside the motto, a terminal replays real runs recorded on 19 Nov 2026: make verify, where the WASM decoder fails on 13 ledgers stellar-core produced (reported as stellar/js-stellar-xdr-json#67); make conformance, six SDK builds matching every pre-registered result; and a replay of pubnet ledger 56085459 into wallet-backend main, which stores seven balances short (reported as stellar/wallet-backend#834)." src="./assets/xdrproof-banner-light.gif" width="100%">
     </picture>
   </a>
 </p>
