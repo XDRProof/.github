@@ -15,7 +15,7 @@
   <a href="https://github.com/XDRProof/xdrproof/blob/main/ARCHITECTURE.md">Architecture</a>
 </p>
 
-<p align="center">A test kit for every program that reads the Stellar ledger: rare but valid ledgers that stellar-core actually wrote, each with the answer a correct reader must give, and tools that show exactly where an SDK or indexer breaks.</p>
+<p align="center">A test kit for every program that reads the Stellar ledger: rare but valid ledgers that stellar-core actually wrote, each with the answer a correct reader must give, and tools that name the exact ledger and check an SDK or indexer gets wrong.</p>
 
 <table align="center">
   <tr>
@@ -25,10 +25,11 @@
 </table>
 
 <p align="center">
-  <b>Reported upstream:</b>
+  <b>New bugs reported:</b>
   <a href="https://github.com/stellar/wallet-backend/issues/834">wallet-backend#834</a> ·
-  <a href="https://github.com/stellar/js-stellar-xdr-json/issues/67">js-stellar-xdr-json#67</a> ·
-  <a href="https://github.com/stellar/wallet-backend/issues/820#issuecomment-7009772300">wallet-backend#820</a>
+  <a href="https://github.com/stellar/js-stellar-xdr-json/issues/67">js-stellar-xdr-json#67</a><br>
+  <b>Fix offered:</b>
+  <a href="https://github.com/stellar/wallet-backend/issues/820#issuecomment-7009772300">a tested bound on wallet-backend#820</a>
 </p>
 
 <p align="center"><sub>Independent open-source project. Not affiliated with the Stellar Development Foundation.</sub></p>
