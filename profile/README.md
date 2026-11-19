@@ -29,7 +29,9 @@
   <a href="https://github.com/stellar/wallet-backend/issues/834">wallet-backend#834</a> ·
   <a href="https://github.com/stellar/js-stellar-xdr-json/issues/67">js-stellar-xdr-json#67</a><br>
   <b>Fix offered:</b>
-  <a href="https://github.com/stellar/wallet-backend/issues/820#issuecomment-7009772300">a tested bound on wallet-backend#820</a>
+  <a href="https://github.com/stellar/wallet-backend/issues/820#issuecomment-7009772300">a tested bound on wallet-backend#820</a><br>
+  <b>Evidence added:</b>
+  <a href="https://github.com/lightsail-network/java-stellar-sdk/issues/835#issuecomment-7016550020">13 deep ledgers on java-stellar-sdk#835</a>
 </p>
 
 <p align="center"><sub>Independent open-source project. Not affiliated with the Stellar Development Foundation.</sub></p>
