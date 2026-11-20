@@ -8,6 +8,7 @@
 </p>
 
 <p align="center">
+  <b><a href="https://xdrproof.dev/demo">▶ Pitch film (3 min)</a></b> ·
   <b><a href="https://xdrproof.dev/docs/start/quickstart">Quickstart</a></b> ·
   <a href="https://xdrproof.dev/docs">Docs</a> ·
   <a href="https://xdrproof.dev/docs/corpus">Corpus</a> ·
