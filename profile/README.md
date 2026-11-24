@@ -22,6 +22,7 @@
   </tr>
 </table>
 
+<!-- upstream:start · written by tools/upstream-table.mjs in XDRProof/xdrproof; do not edit -->
 <p align="center">
   <b>New bugs reported:</b>
   <a href="https://github.com/stellar/wallet-backend/issues/834">wallet-backend#834</a> ·
@@ -31,5 +32,6 @@
   <b>Evidence added:</b>
   <a href="https://github.com/lightsail-network/java-stellar-sdk/issues/835#issuecomment-7016550020">13 deep ledgers on java-stellar-sdk#835</a>
 </p>
+<!-- upstream:end -->
 
 <p align="center"><sub>Independent open-source project. Not affiliated with the Stellar Development Foundation.</sub></p>
