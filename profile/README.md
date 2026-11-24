@@ -18,7 +18,7 @@
 <table align="center">
   <tr>
     <td><a href="https://github.com/XDRProof/xdrproof"><b>xdrproof</b></a></td>
-    <td>The corpus (263 entries, 634 ledger variants), the SDK conformance runner, the indexer replay harness and the xplint linter, each result re-runnable with one command.</td>
+    <td>The corpus (264 entries, 635 ledger variants), the SDK conformance runner, the indexer replay harness and the xplint linter, each result re-runnable with one command.</td>
   </tr>
 </table>
 
