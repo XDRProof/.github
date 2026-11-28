@@ -1,0 +1,5 @@
+# Agent notes stay on the owner's machine, never in the repo
+AGENTS.md
+CLAUDE.md
+.claude/
+.codex/
